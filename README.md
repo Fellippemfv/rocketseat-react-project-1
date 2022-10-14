@@ -1,30 +1,6 @@
 # rocketseat-react-project-1
-<h1 align="center">
-  <img alt="logo" title="logo" src="./assets/logo.png" />
-</h1>
 <p align="center">
     Primeiro projeto de reactJS, realizado no primeiro modulo de reactJS ignite da rocketseat.
-</p>
-
-<p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/https://github.com/Fellippemfv/rocketseat-react-project-1.git">
-
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Fellippemfv/https://github.com/Fellippemfv/rocketseat-react-project-1.git">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Fellippemfv/https://github.com/Fellippemfv/rocketseat-react-project-1.git">
-  
-  <a href="https://github.com/Fellippemfv/rocketseat-react-project-1/commits/master">
-  	<img alt="last-commit" src="https://img.shields.io/github/last-commit/Fellippemfv/https://github.com/Fellippemfv/rocketseat-react-project-1.git">
-  </a>
-
-  <a href="https://github.com/Fellippemfv/rocketseat-react-project-1/issues">
-  	<img alt="issues" src="https://img.shields.io/github/issues/Fellippemfv/https://github.com/Fellippemfv/rocketseat-react-project-1.git">
-  </a>
-
-  <a href="https://github.com/Fellippemfv/rocketseat-react-project-1/blob/master/LICENSE">
-  	<img alt="GitHub/licens" src="https://img.shields.io/github/license/Fellippemfv/https://github.com/Fellippemfv/rocketseat-react-project-1.git">
-  </a>
-
 </p>
 
 <p align="center">
