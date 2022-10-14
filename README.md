@@ -1,6 +1,6 @@
-# rocketseat-react-project-1
+<h1 align="center"> Project 1 <h1>
 <p align="center">
-    Primeiro projeto de reactJS, realizado no primeiro modulo de reactJS ignite da rocketseat.
+    Primeiro projeto de reactJS, realizado no ignite da rocketseat.
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@ And
 # Start server with vite
 $ npm run dev
 
-Click on the link created by vite, you will be redirected to the default browser
+# Click on the link created by vite, you will be redirected to the default browser
 
 ```
 
