@@ -1,10 +1,10 @@
 <h1 align="center"> Projeto 01 - Sidebar e Post com Comentário</h1>
 <h2 align="center">
-  <img alt="logo" title="logo" src="https://user-images.githubusercontent.com/67835741/195967611-736e0cb2-3027-47b3-ad7f-b8096dab7814.png" />
+  <img alt="logo" title="logo" src="https://user-images.githubusercontent.com/67835741/195986681-549eeb5a-155e-4f34-a3aa-bf2b1e3174ad.png" />
 </h2>
 
 <p align="center">
-    Primeiro projeto de reactJS, desenvolvemos do zero uma sidebar e um post com comentários, com opções de excluir ou aplaudir um comentário
+    Primeiro projeto de reactJS, desenvolvemos do zero uma sidebar e um post com comentários, com opções de comentar, excluir e aplaudir um comentário
 </p>
 
 <p align="center">
@@ -50,14 +50,12 @@ $ git clone https://github.com/Fellippemfv/rocketseat-react-project-1.git
 $ cd rocketseat-react-project-1
 
 # Instalar dependências
-$ npm i or npm install
+$ npm i ou npm install
 
-E
-
-# Rodar o servidor com vite
+# Rodar um servidor com vite
 $ npm run dev
 
-# Clicar no link criado pelo vite, você será redirecionado para uma nova aba no navegador padrão
+# Clicar no link gerado pelo vite, você será redirecionado para uma nova aba em seu navegador padrão.
 
 ```
 

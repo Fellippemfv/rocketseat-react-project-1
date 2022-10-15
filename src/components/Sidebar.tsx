@@ -12,7 +12,7 @@ export function Sidebar(){
             />
         
             <div className={styles.profile}>
-                <Avatar src="https://github.com/maykbrito.png" />
+                <Avatar src="https://xesque.rocketseat.dev/users/avatar/profile-ef0b0680-fd2f-483f-b088-603826401ba3-1641870924325.jpg" />
 
                 <strong>Fellippe Matheus</strong>
                 <span>Web Developer</span>
