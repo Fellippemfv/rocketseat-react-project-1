@@ -50,7 +50,7 @@ $ git clone https://github.com/Fellippemfv/rocketseat-react-project-1.git
 $ cd rocketseat-react-project-1
 
 # Instalar dependências
-$ npm i ou npm install
+$ npm install
 
 # Rodar um servidor com vite
 $ npm run dev
