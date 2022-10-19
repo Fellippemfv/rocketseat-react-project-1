@@ -4,7 +4,7 @@
 </h2>
 
 <p align="justify">
-    Primeiro projeto de reactJS, desenvolvemos do zero uma sidebar e um post com comentários, com opções de comentar, excluir e aplaudir um comentário
+    Primeiro projeto de reactJS, desenvolvemos do zero uma sidebar e um post com comentários, com opções de comentar, excluir e aplaudir um comentário, e por ser um projeto sem banco de dados, nós criamos a postagem, comentamos e eles irão acumular ao longo da pagina, imitando uma aplicação real.
 </p>
 
 <p align="center">
