@@ -3,7 +3,7 @@
   <img alt="logo" title="logo" src="https://user-images.githubusercontent.com/67835741/195986681-549eeb5a-155e-4f34-a3aa-bf2b1e3174ad.png" />
 </h2>
 
-<p align="center">
+<p align="justify">
     Primeiro projeto de reactJS, desenvolvemos do zero uma sidebar e um post com comentários, com opções de comentar, excluir e aplaudir um comentário
 </p>
 
